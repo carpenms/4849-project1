@@ -1,3 +1,6 @@
+$(document).ready(function() { // do this when the document is loaded
+	$("#dialer, #contacts, #add").hide(); // hide the element with ID "otherElement"
+});
 
 $("#bdialer").click(function() { // when "button_id" is clicked
 	$("#dialer").show(); // show element
