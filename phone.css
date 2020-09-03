@@ -4,7 +4,7 @@
 #clearContact { background: red; }
 
 #dial {
-	background-color:#44c767;
+	background-color:#4dac26;
 	border-radius:28px;
 	border:1px solid #0eed24;
 	display:inline-block;
@@ -14,11 +14,11 @@
 	font-size:8px;
 	padding:8px 14px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
+	
 }
 
 #clear {
-	background-color:#ed1111;
+	background-color:#d01c8b;
 	border-radius:28px;
 	border:1px solid #18ab29;
 	display:inline-block;
@@ -28,7 +28,7 @@
 	font-size:8px;
 	padding:8px 14px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #2f6627;
+	
 }
 
 .ui {
@@ -70,7 +70,7 @@
 
 #addContact {
 	box-shadow: 0px 10px 14px -7px #3e7327;
-	background-color:#44c767;
+	background-color:#4dac26;
 	border-radius:4px;
 	border:1px solid #4b8f29;
 	display:inline-block;
@@ -85,7 +85,7 @@
 
 #clearContact {
 	box-shadow: 0px 10px 14px -7px #3e7327;
-	background-color:#ed1111;
+	background-color:#d01c8b;
 	border-radius:4px;
 	border:1px solid #4b8f29;
 	display:inline-block;
