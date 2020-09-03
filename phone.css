@@ -76,6 +76,7 @@
 
 .con:hover span {
     color: hsl(222, 100%, 95%);
+    content: "Hello";
 }
 
 .con:hover::before {
