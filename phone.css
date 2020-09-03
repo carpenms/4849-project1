@@ -42,3 +42,15 @@
 	padding:8px 10px;
 	text-decoration:none;
 }
+
+.con {
+	background-color:#d6c9c9;
+	border-radius:7px;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:8px;
+	padding:8px 24px;
+	text-decoration:none;	
+}
